@@ -15,5 +15,8 @@ Then use that list of titles to search through tmdb movies and store them in a p
 
 ## Instructions
 - clone repo
+- create .env file
+- input your NYT api key as NYT_API_KEY to .env file as string variable
+- input your TMDB as key as TMDB_API_KEY to .env file as string variable
 - start pandas server
 - run retrieve_movie_data.ipynb
