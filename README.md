@@ -8,6 +8,8 @@ Then use that list of titles to search through tmdb movies and store them in a p
 - Python
 - Pandas
 - requests
+    - NYT api key
+    - TMDB api key
 - time
 - dotenv
 - os
